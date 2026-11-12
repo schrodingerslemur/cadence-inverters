@@ -1,0 +1,19 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Thu Oct  1 21:16:47 2026 
+Best design point: 1
+Design specs: 
+	project1_inverter_1	corner	Nominal - 
+	OP("/PM0" "betaeff")		1.147m
+	OP("/PM0" "vth")		-560m
+	OP("/PM0" "vds")		0
+	OP("/PM0" "ids")		-0
+	(2.2 * abs((OP("/PM0" "vds") / OP("/PM0" "ids"))) * (OP("/PM0" "cdd") + OP("/NM0" "cdd") + OP("/M_next" "cgg")))		Error	No
+	OP("/PM0" "ron")		inf
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Thu Oct  1 21:17:08 2026 
